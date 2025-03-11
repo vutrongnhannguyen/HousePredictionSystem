@@ -102,8 +102,18 @@ Models were evaluated using **Root Mean Squared Error (RMSE)**:
 
 ### 🏆 Best Model Results
 
-- 🥇 **Stacking Regressor achieved the best RMSE on the test set**, leading to our final submission.
-- 🥈 The **CatBoost model** also provided competitive results and was used as a backup submission.
+📊 **Model Performance (RMSE):**  
+- **Linear Regression**: **20,502.35**  
+- **Random Forest**: **22,126.47**  
+- **XGBoost**: **20,696.47**  
+- **CatBoost**: **20,035.95**  
+- **LightGBM**: **21,479.93**  
+- **Stacking Regressor**: **20,002.54**  
+
+🥇 **Stacking Regressor achieved the best RMSE on the test set**, leading to our final submission.  
+
+🥈 **CatBoost** was also a strong performer and was considered as a reliable backup model.  
+
 
 ## 📑 Submission Format
 

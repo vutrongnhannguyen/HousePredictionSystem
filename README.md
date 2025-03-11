@@ -1,5 +1,7 @@
 # 🏡 Kaggle Housing Price Prediction - Top 2.86% Achievement
 
+https://www.kaggle.com/competitions/home-data-for-ml-course
+
 ## 👥 Team
 - 👨‍💻 Nguyen Vu Trong Nhan
 - 👨‍💻 Duong Hoang Anh Khoa

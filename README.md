@@ -1,4 +1,4 @@
-# 🏡 Kaggle Housing Price Prediction - Top 2.8% Achievement
+# 🏡 Kaggle Housing Price Prediction - Top 2.86% Achievement
 
 ## 👥 Team
 - 👨‍💻 Nguyen Vu Trong Nhan
@@ -9,7 +9,7 @@
 
 ## 📌 Introduction
 
-This project is a submission for the Kaggle Housing Prices competition, where our team secured a top **2.7% ranking globally**. The goal of the competition is to predict house sale prices based on **81** explanatory variables describing various aspects of residential homes in Ames, Iowa. 🏠📊
+This project is a submission for the Kaggle Housing Prices competition, where our team secured a top **2.86% ranking globally**. The goal of the competition is to predict house sale prices based on **81** explanatory variables describing various aspects of residential homes in Ames, Iowa. 🏠📊
 
 ## 🚀 Getting Started
 
